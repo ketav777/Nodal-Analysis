@@ -35,4 +35,4 @@ Contributions are welcome. Please open an issue or submit a pull request for any
 This project is licensed under the MIT License.
 
 ## Acknowledgements
-I deeply appreciate Springer Link and Journal of Petroleum Exploration and Production Technology for providing insights on this model and alos for keping the article open-source.
+I deeply appreciate Springer Link and Journal of Petroleum Exploration and Production Technology for providing insights on this model and also for keeping the article open-source.
